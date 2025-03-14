@@ -178,6 +178,10 @@ p {
   max-height: 300px;
 }
 
+.PC {
+  padding-bottom: 15px;
+}
+
 .immagini {
   vertical-align: top;
 }
